@@ -1,2 +1,2 @@
 # fullstackopen
-This repository is used for submitting exercises of course (https://fullstackopen.com/en/)
+This repository is used for submitting exercises for course (https://fullstackopen.com/en/)
